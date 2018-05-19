@@ -41,7 +41,7 @@ function parsePSS(source) {
       lines[index] = line.replace('::', '_');
     }
 
-    if (lines[index].trim().charAt(0) === ':' && depth === 1) {
+    if (lines[index].trim().charAt(0) === ':' && depth === 2) {
       lines[index] = lines[index].replace(':', '_');
     }
   }
