@@ -1,7 +1,10 @@
 {
   "name": "pretty-components-formatter",
-  "version": "1.0.3",
+  "description": "Formatting logic behind pretty-components.",
+  "version": "1.0.4",
   "main": "src/index.js",
+  "author": "eveningkid",
+  "repository": "eveningkid/pretty-components-formatter",
   "license": "MIT",
   "dependencies": {
     "camelcase-css": "^2.0.0",
