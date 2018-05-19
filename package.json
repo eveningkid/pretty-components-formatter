@@ -1,7 +1,7 @@
 {
   "name": "pretty-components-formatter",
   "description": "Formatting logic behind pretty-components.",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "main": "src/index.js",
   "author": "eveningkid",
   "repository": "eveningkid/pretty-components-formatter",
